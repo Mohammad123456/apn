@@ -1,0 +1,770 @@
+=============================================================
+MML Command:
+	DSP APNPDPSTATS:CATEGORYTYPE=IP_ALLOCATION;
+NE Name:
+	ugw@EGEFD
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:58+03:30
+O&M    #1888646628
+%%/*1888646628 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         0                                                            0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      44733                                                        0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+nationalroam                44343                                                        0                                                  0                                                           0                                                         0                                                    
+moi.elc.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 8)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGRHD
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:58+03:30
+O&M    #1888646636
+%%/*1888646636 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         0                                                            0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      42746                                                        0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+nationalroam                147688                                                       0                                                  0                                                           0                                                         0                                                    
+iripo.mci                   0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+prv.int.tst1.mci            11                                                           0                                                  0                                                           0                                                         0                                                    
+reg.emb.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+child.int.cbstest.mci       0                                                            0                                                  0                                                           0                                                         0                                                    
+moi.elc.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 12)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EPGMDA
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:58+03:30
+O&M    #1888646629
+%%/*1888646629 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+mcinet                      2227322                                                      2                                                  0                                                           0                                                         0                                                    
+ims                         230840                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+nbiot.gz.farab.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 7)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EPGKZE
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:58+03:30
+O&M    #1888646638
+%%/*1888646638 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         399972                                                       0                                                  0                                                           0                                                         0                                                    
+mcinet                      3044194                                                      0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 6)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGMDB
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646640
+%%/*1888646640 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         250199                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      2668058                                                      0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+nbiot.gz.farab.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 7)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGEFA
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646626
+%%/*1888646626 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         333189                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      2733036                                                      4                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+nbiot.gz.farab.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+nbiot.faratak.mci           0                                                            0                                                  0                                                           0                                                         0                                                    
+nbiot.amirkabirun.mci       0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 9)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EPGKZA
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646637
+%%/*1888646637 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         461045                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      3452020                                                      3                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+xgtest                      0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 7)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EPGSZA
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646630
+%%/*1888646630 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         384470                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      3151539                                                      1                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 6)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EPGTZA
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646631
+%%/*1888646631 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         386785                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      3749102                                                      2                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+tz.dnsph2.tst.mci           0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 7)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGEFB
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646627
+%%/*1888646627 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         352263                                                       0                                                  0                                                           0                                                         0                                                    
+bld3.mno.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      2874782                                                      0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+moi.elc.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+education.mci               0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 9)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGEFC
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646639
+%%/*1888646639 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         328757                                                       0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      2711833                                                      0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 6)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EPGTZB
+MML Command Report:
+	+++    ugw        2023-12-25 22:02:59+03:30
+O&M    #1888646632
+%%/*1888646632 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         388019                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      3751144                                                      0                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+taliyanet                   6676                                                         0                                                  0                                                           0                                                         0                                                    
+kishnet                     5945                                                         0                                                  0                                                           0                                                         0                                                    
+lotustel                    1213                                                         0                                                  0                                                           0                                                         0                                                    
+parsian.phl                 13447                                                        0                                                  0                                                           0                                                         0                                                    
+(Number of results = 10)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGRHC
+MML Command Report:
+	+++    ugw        2023-12-25 22:03:00+03:30
+O&M    #1888646635
+%%/*1888646635 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         728619                                                       0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      3489869                                                      2                                                  0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+lotustel                    0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi.mci                    0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi89.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi90.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi91.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi92.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi93.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi94.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi95.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+yellow.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 16)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGRHA
+MML Command Report:
+	+++    ugw        2023-12-25 22:03:00+03:30
+O&M    #1888646633
+%%/*1888646633 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+child.int.test.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+child.int.cbstest.mci       2                                                            0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinet                      3018686                                                      14                                                 0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+ims                         676347                                                       0                                                  0                                                           0                                                         0                                                    
+lotustel                    0                                                            0                                                  0                                                           0                                                         0                                                    
+ir.gz.iottst.mci            0                                                            0                                                  0                                                           0                                                         0                                                    
+rafm.rg.tst.mci             1                                                            0                                                  0                                                           0                                                         0                                                    
+nbiot.gz.farab.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+child.internet.mci          882841                                                       0                                                  0                                                           0                                                         0                                                    
+ltem.mci                    0                                                            0                                                  0                                                           0                                                         0                                                    
+yellow.mci                  347                                                          0                                                  0                                                           0                                                         0                                                    
+white.mci                   505                                                          0                                                  0                                                           0                                                         0                                                    
+orange.mci                  311                                                          0                                                  0                                                           0                                                         0                                                    
+education.mci               13842                                                        0                                                  0                                                           0                                                         0                                                    
+sponserdata.mci             0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 19)
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
+NE Name:
+	ugw@EGRHB
+MML Command Report:
+	+++    ugw        2023-12-25 22:03:28+03:30
+O&M    #1888646634
+%%/*1888646634 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+ims                         635713                                                       0                                                  0                                                           0                                                         0                                                    
+abn.ems.mci                 0                                                            35                                                 0                                                           0                                                         0                                                    
+mcinet                      2988969                                                      15                                                 0                                                           0                                                         0                                                    
+ut                          0                                                            0                                                  0                                                           0                                                         0                                                    
+vgstest                     0                                                            0                                                  0                                                           0                                                         0                                                    
+lotustel                    0                                                            0                                                  0                                                           0                                                         0                                                    
+anarestan                   0                                                            0                                                  0                                                           0                                                         0                                                    
+ipv6test                    0                                                            0                                                  0                                                           0                                                         0                                                    
+hmz.ems.mci                 0                                                            133                                                0                                                           0                                                         0                                                    
+vgstest.intranet            0                                                            0                                                  0                                                           0                                                         0                                                    
+mcinational                 0                                                            0                                                  0                                                           0                                                         0                                                    
+mdolat.mci                  22                                                           0                                                  0                                                           0                                                         0                                                    
+onlinegs.mci                0                                                            1697                                               0                                                           0                                                         0                                                    
+anarestan.mci               546319                                                       0                                                  0                                                           0                                                         0                                                    
+mng.acs.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+cbp.iot.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+judcp.mci                   0                                                            0                                                  0                                                           0                                                         0                                                    
+zh.ems.mci                  0                                                            52                                                 0                                                           0                                                         0                                                    
+rg.apn.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+sk.ems.mci                  0                                                            120                                                0                                                           0                                                         0                                                    
+gitipasand.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+ksh.ems.mci                 0                                                            76                                                 0                                                           0                                                         0                                                    
+zjn.ems.mci                 0                                                            102                                                0                                                           0                                                         0                                                    
+brj.ems.mci                 0                                                            185                                                0                                                           0                                                         0                                                    
+rfs.ums.mci                 0                                                            21                                                 0                                                           0                                                         0                                                    
+sirjan.ums.ac.mci           0                                                            22                                                 0                                                           0                                                         0                                                    
+frs.ems.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+ilm.ems.mci                 0                                                            90                                                 0                                                           0                                                         0                                                    
+hmn.ems.mci                 0                                                            68                                                 0                                                           0                                                         0                                                    
+krd.ems.mci                 0                                                            119                                                0                                                           0                                                         0                                                    
+lrs.ems.mci                 0                                                            205                                                0                                                           0                                                         0                                                    
+khl.ems.mci                 0                                                            6                                                  0                                                           0                                                         0                                                    
+qom.ems.mci                 0                                                            108                                                0                                                           0                                                         0                                                    
+gnbd.ems.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+kshn.ems.mci                0                                                            55                                                 0                                                           0                                                         0                                                    
+mkz.tb.mci                  0                                                            13025                                              0                                                           0                                                         0                                                    
+pec.pos.mci                 0                                                            3657                                               0                                                           0                                                         0                                                    
+neishabour.ems.mci          0                                                            41                                                 0                                                           0                                                         0                                                    
+tbtb.fm.mci                 0                                                            38141                                              0                                                           0                                                         0                                                    
+tbtb.homa.mci               0                                                            181                                                0                                                           0                                                         0                                                    
+naji.avl.mci                6                                                            0                                                  0                                                           0                                                         0                                                    
+nafasyarteb.mci             63                                                           0                                                  0                                                           0                                                         0                                                    
+rahbar.rail.mci             0                                                            10                                                 0                                                           0                                                         0                                                    
+apadana.kavosh.mci          0                                                            5                                                  0                                                           0                                                         0                                                    
+atiertebat.tstv6.mci        0                                                            0                                                  0                                                           0                                                         0                                                    
+ptt.nedapardaz.mci          2                                                            0                                                  0                                                           0                                                         0                                                    
+krd.tb.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+sps.tst.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+sarab.ems.mci               0                                                            0                                                  0                                                           0                                                         0                                                    
+bsh.tb.faham.mci            0                                                            80                                                 0                                                           0                                                         0                                                    
+sib.tb.faham.mci            0                                                            4955                                               0                                                           0                                                         0                                                    
+rmto.teh.mci                0                                                            13                                                 0                                                           0                                                         0                                                    
+gls.ems.mci                 0                                                            141                                                0                                                           0                                                         0                                                    
+abfa.sem.mci                0                                                            50                                                 0                                                           0                                                         0                                                    
+tb.teh.fm.mci               0                                                            21187                                              0                                                           0                                                         0                                                    
+sib.fm.behin.mci            0                                                            4145                                               0                                                           0                                                         0                                                    
+sayan.mci                   0                                                            59295                                              0                                                           0                                                         0                                                    
+lrs.fm.behin.mci            0                                                            1917                                               0                                                           0                                                         0                                                    
+gls.fm.behin.mci            0                                                            22038                                              0                                                           0                                                         0                                                    
+kba.fm.afzar.mci            0                                                            587                                                0                                                           0                                                         0                                                    
+khz.fm.afzar.mci            0                                                            10911                                              0                                                           0                                                         0                                                    
+gln.fm.afzar.mci            0                                                            20540                                              0                                                           0                                                         0                                                    
+mzn.wst.fm.tb.mci           0                                                            16797                                              0                                                           0                                                         0                                                    
+mkz.tb.sn.mci               0                                                            78                                                 0                                                           0                                                         0                                                    
+hamiedalat.pts.mci          0                                                            42                                                 0                                                           0                                                         0                                                    
+bam.ems.mci                 0                                                            2                                                  0                                                           0                                                         0                                                    
+az.ems.mci                  0                                                            177                                                0                                                           0                                                         0                                                    
+esf.ems.mci                 0                                                            147                                                0                                                           0                                                         0                                                    
+khn.sth.fm.behin.mci        0                                                            6685                                               0                                                           0                                                         0                                                    
+rmto.th.pts.mci             0                                                            21                                                 0                                                           0                                                         0                                                    
+fmc.tst.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+albz.fm.behin.thsrv.mci     0                                                            0                                                  0                                                           0                                                         0                                                    
+albz.fm.afzar.mci           0                                                            6199                                               0                                                           0                                                         0                                                    
+gln.fm.behin.th.mci         0                                                            3336                                               0                                                           0                                                         0                                                    
+mzn.wst.fm.behin.th.mci     0                                                            5583                                               0                                                           0                                                         0                                                    
+qom.fm.behin.th.mci         0                                                            8197                                               0                                                           0                                                         0                                                    
+li.ctrl1.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+li.ctrl2.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+etka.mci                    0                                                            0                                                  0                                                           0                                                         0                                                    
+kba.fm.behin.msh.mci        0                                                            1265                                               0                                                           0                                                         0                                                    
+yazd.gz.mci                 0                                                            180                                                0                                                           0                                                         0                                                    
+khn.tb.mci                  0                                                            22                                                 0                                                           0                                                         0                                                    
+payesh.armaghan.mci         0                                                            0                                                  0                                                           0                                                         0                                                    
+abfa.esf.mci                0                                                            838                                                0                                                           0                                                         0                                                    
+smart.elcmeter.noc.mci      0                                                            14                                                 0                                                           0                                                         0                                                    
+prv.int.tst1.mci            1949                                                         0                                                  0                                                           0                                                         0                                                    
+aryasanat.zr.mci            0                                                            35                                                 0                                                           0                                                         0                                                    
+khn.sth.prvc.mci            0                                                            3                                                  0                                                           0                                                         0                                                    
+abfa.yz.mci                 0                                                            134                                                0                                                           0                                                         0                                                    
+sem.gz.mci                  0                                                            7                                                  0                                                           0                                                         0                                                    
+larums.ac.mci               0                                                            17                                                 0                                                           0                                                         0                                                    
+To be continued...
+---    END
++++    ugw        2023-12-25 22:03:28+03:30
+O&M    #1888646634
+%%/*1888646634 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+iranland.service.mci        0                                                            3                                                  0                                                           0                                                         0                                                    
+enj.inds.labco.mci          0                                                            1                                                  0                                                           0                                                         0                                                    
+dezhiran.mci                0                                                            43                                                 0                                                           0                                                         0                                                    
+sharif.hamrah.mci           0                                                            294                                                0                                                           0                                                         0                                                    
+niopdc.mkz.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+ahz.tb.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+qom.abfa.mci                0                                                            120                                                0                                                           0                                                         0                                                    
+ksh.culture.gov.mci         0                                                            0                                                  0                                                           0                                                         0                                                    
+pouyarahyaft.mci            0                                                            0                                                  0                                                           0                                                         0                                                    
+nikan.saba.mci              0                                                            5                                                  0                                                           0                                                         0                                                    
+dezful.ums.ac.mci           0                                                            16                                                 0                                                           0                                                         0                                                    
+icofc.mkz.rgn.mci           0                                                            0                                                  0                                                           0                                                         0                                                    
+krd.tb.scada.mci            0                                                            30                                                 0                                                           0                                                         0                                                    
+poc.avak.mci                0                                                            14                                                 0                                                           0                                                         0                                                    
+iranman.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+atlas.taha.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+fo.alborziron.mci           0                                                            9                                                  0                                                           0                                                         0                                                    
+nigceng.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+znj.gz.mci                  0                                                            12                                                 0                                                           0                                                         0                                                    
+hmz.fm.afzar.mci            0                                                            14540                                              0                                                           0                                                         0                                                    
+activeprob.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+nashreasar.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+ak.tb.mci                   0                                                            12                                                 0                                                           0                                                         0                                                    
+aze.tb.mci                  0                                                            26                                                 0                                                           0                                                         0                                                    
+aze.gz.mci                  0                                                            12                                                 0                                                           0                                                         0                                                    
+amin.naji.mci               20                                                           0                                                  0                                                           0                                                         0                                                    
+asak.mci                    10                                                           0                                                  0                                                           0                                                         0                                                    
+banader.mci                 0                                                            3                                                  0                                                           0                                                         0                                                    
+bnk.maskan.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+baharanit.mci               3                                                            1                                                  0                                                           0                                                         0                                                    
+betaport.mci                0                                                            90                                                 0                                                           0                                                         0                                                    
+behsa.mci                   0                                                            0                                                  0                                                           0                                                         0                                                    
+bsh.tb.mci                  0                                                            120                                                0                                                           0                                                         0                                                    
+ard.fm.mci                  0                                                            1905                                               0                                                           0                                                         0                                                    
+b2bpip.mci                  0                                                            314                                                0                                                           0                                                         0                                                    
+srl.mci                     0                                                            6                                                  0                                                           0                                                         0                                                    
+azw.fm.mci                  0                                                            1424                                               0                                                           0                                                         0                                                    
+abfa.krd.mci                0                                                            22                                                 0                                                           0                                                         0                                                    
+caspian.supply.srvc.mci     0                                                            15                                                 0                                                           0                                                         0                                                    
+callcenter.mci              13                                                           0                                                  0                                                           0                                                         0                                                    
+electrogen.mci              0                                                            3                                                  0                                                           0                                                         0                                                    
+tourist.mci                 3                                                            0                                                  0                                                           0                                                         0                                                    
+iranman.vip.mci             0                                                            0                                                  0                                                           0                                                         0                                                    
+frs.escada.tb.mci           0                                                            0                                                  0                                                           0                                                         0                                                    
+rcs.mci                     0                                                            1                                                  0                                                           0                                                         0                                                    
+ksh.ostn.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+ksh.tb.mci                  0                                                            2887                                               0                                                           0                                                         0                                                    
+isrc.ac.mci                 0                                                            4                                                  0                                                           0                                                         0                                                    
+fh.pouya.mci                0                                                            9                                                  0                                                           0                                                         0                                                    
+ahz.fm.tb.mci               0                                                            6568                                               0                                                           0                                                         0                                                    
+ami.tbtb.mci                436                                                          0                                                  0                                                           0                                                         0                                                    
+bnksi.poolresan.mci         0                                                            5                                                  0                                                           0                                                         0                                                    
+bki.mci                     0                                                            100                                                0                                                           0                                                         0                                                    
+bhrc.ac.mci                 0                                                            139                                                0                                                           0                                                         0                                                    
+fanavacard.mci              701                                                          0                                                  0                                                           0                                                         0                                                    
+shopp.mci                   0                                                            192                                                0                                                           0                                                         0                                                    
+cmb.tozi.mci                0                                                            44                                                 0                                                           0                                                         0                                                    
+efarda.mci                  559                                                          0                                                  0                                                           0                                                         0                                                    
+emc.mci                     0                                                            244                                                0                                                           0                                                         0                                                    
+yed.mci                     0                                                            23                                                 0                                                           0                                                         0                                                    
+To be continued...
+---    END
++++    ugw        2023-12-25 22:03:54+03:30
+O&M    #1888646634
+%%/*1888646634 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+yzd.tb.mci                  0                                                            2                                                  0                                                           0                                                         0                                                    
+zjn.homa.tb.mci             0                                                            17                                                 0                                                           0                                                         0                                                    
+tz.fm.mci                   0                                                            16                                                 0                                                           0                                                         0                                                    
+smartroad.rand.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+esf.rw.mci                  0                                                            1                                                  0                                                           0                                                         0                                                    
+dorsazist.mci               0                                                            0                                                  0                                                           0                                                         0                                                    
+dorsanet.mci                1997                                                         0                                                  0                                                           0                                                         0                                                    
+hamedan.fm.mci              0                                                            2433                                               0                                                           0                                                         0                                                    
+krd.homa.tb.mci             0                                                            127                                                0                                                           0                                                         0                                                    
+ila.tb.mci                  0                                                            21                                                 0                                                           0                                                         0                                                    
+krd.fm.mci                  0                                                            1173                                               0                                                           0                                                         0                                                    
+repository.mci              0                                                            4                                                  0                                                           0                                                         0                                                    
+gls.tb.mci                  72                                                           0                                                  0                                                           0                                                         0                                                    
+gls1.tb.mci                 0                                                            183                                                0                                                           0                                                         0                                                    
+frs.faham.mci               0                                                            19006                                              0                                                           0                                                         0                                                    
+gls2.tb.mci                 0                                                            49                                                 0                                                           0                                                         0                                                    
+frs.fm.mci                  0                                                            3570                                               0                                                           0                                                         0                                                    
+khn.sth.tb.mci              0                                                            154                                                0                                                           0                                                         0                                                    
+j.ker.faham.mci             0                                                            25139                                              0                                                           0                                                         0                                                    
+khn.rz.tb.mci               209                                                          0                                                  0                                                           0                                                         0                                                    
+lrs.faham.mci               0                                                            6085                                               0                                                           0                                                         0                                                    
+zanjan.faham.mci            0                                                            9882                                               0                                                           0                                                         0                                                    
+yazd.faham.mci              0                                                            24005                                              0                                                           0                                                         0                                                    
+wst.re.bargh.mci            0                                                            58                                                 0                                                           0                                                         0                                                    
+tb.teh.mci                  0                                                            16678                                              0                                                           0                                                         0                                                    
+qom.fm.mci                  0                                                            13763                                              0                                                           0                                                         0                                                    
+tb.frs.mci                  0                                                            23                                                 0                                                           0                                                         0                                                    
+sem.tb.mci                  0                                                            120                                                0                                                           0                                                         0                                                    
+sib.tb.mci                  0                                                            56                                                 0                                                           0                                                         0                                                    
+th.re.bargh.mci             0                                                            40                                                 0                                                           0                                                         0                                                    
+qzn.fm.mci                  0                                                            16730                                              0                                                           0                                                         0                                                    
+sem.fm.mci                  0                                                            685                                                0                                                           0                                                         0                                                    
+tbtb.faham.mci              0                                                            722                                                0                                                           0                                                         0                                                    
+tbtb.mci                    0                                                            446                                                0                                                           0                                                         0                                                    
+iripo.mci                   0                                                            0                                                  0                                                           0                                                         0                                                    
+petroiran.mci               0                                                            1                                                  0                                                           0                                                         0                                                    
+pna.mci                     0                                                            13                                                 0                                                           0                                                         0                                                    
+pogc.mci                    0                                                            0                                                  0                                                           0                                                         0                                                    
+presidency.mci              12                                                           0                                                  0                                                           0                                                         0                                                    
+judc.mci                    0                                                            1042                                               0                                                           0                                                         0                                                    
+sadad.dy.mci                5590                                                         0                                                  0                                                           0                                                         0                                                    
+radinsystem.mci             0                                                            22                                                 0                                                           0                                                         0                                                    
+qom.tz.mci                  0                                                            104                                                0                                                           0                                                         0                                                    
+tsml.mci                    0                                                            38                                                 0                                                           0                                                         0                                                    
+gasemdadteh.mci             0                                                            45                                                 0                                                           0                                                         0                                                    
+gazegilan.bo.mci            0                                                            38                                                 0                                                           0                                                         0                                                    
+igmc.mci                    0                                                            242                                                0                                                           0                                                         0                                                    
+iran.kish.mci               9398                                                         0                                                  0                                                           0                                                         0                                                    
+magfa.mci                   0                                                            4                                                  0                                                           0                                                         0                                                    
+moi.elc.inspc.mci           8                                                            0                                                  0                                                           0                                                         0                                                    
+nioc.mci                    0                                                            132                                                0                                                           0                                                         0                                                    
+pep.mci                     234                                                          0                                                  0                                                           0                                                         0                                                    
+motal.mci                   12                                                           0                                                  0                                                           0                                                         0                                                    
+saipa.mci                   0                                                            6                                                  0                                                           0                                                         0                                                    
+sairan.elcoptic.mci         0                                                            24                                                 0                                                           0                                                         0                                                    
+sep.mci                     5614                                                         0                                                  0                                                           0                                                         0                                                    
+sgi.mci                     587                                                          571                                                0                                                           0                                                         0                                                    
+int.school.st.mci           0                                                            56                                                 0                                                           0                                                         0                                                    
+emdadkhodro.ir.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+naji.pajouhesh.mci          0                                                            3                                                  0                                                           0                                                         0                                                    
+tvedc.mci                   0                                                            112                                                0                                                           0                                                         0                                                    
+tdmmo.tehran.mci            0                                                            16                                                 0                                                           0                                                         0                                                    
+sepehr.iranian.mci          0                                                            58                                                 0                                                           0                                                         0                                                    
+pish.pazhvak.mci            0                                                            17                                                 0                                                           0                                                         0                                                    
+km.emdad.mci                0                                                            445                                                0                                                           0                                                         0                                                    
+irimoapn.mci                0                                                            379                                                0                                                           0                                                         0                                                    
+tabiatsabz.mci              0                                                            830                                                0                                                           0                                                         0                                                    
+ir.gz.enteghal.mci          0                                                            190                                                0                                                           0                                                         0                                                    
+pna.dy.mci                  95                                                           0                                                  0                                                           0                                                         0                                                    
+pec.mci                     0                                                            0                                                  0                                                           0                                                         0                                                    
+soroush.resaneh.mci         0                                                            762                                                0                                                           0                                                         0                                                    
+sepehrnet.mci               0                                                            1446                                               0                                                           0                                                         0                                                    
+znj.tb.mci                  0                                                            4                                                  0                                                           0                                                         0                                                    
+qom.tb.mci                  0                                                            52                                                 0                                                           0                                                         0                                                    
+cmb.gz.mci                  0                                                            9                                                  0                                                           0                                                         0                                                    
+zaeem.mci                   0                                                            1                                                  0                                                           0                                                         0                                                    
+infra.staf.mci              0                                                            4                                                  0                                                           0                                                         0                                                    
+behpardakht.mci             7893                                                         0                                                  0                                                           0                                                         0                                                    
+digital.sing.mci            0                                                            168                                                0                                                           0                                                         0                                                    
+mkz.escada.tb.mci           0                                                            117                                                0                                                           0                                                         0                                                    
+imensazan.petro.mci         0                                                            5                                                  0                                                           0                                                         0                                                    
+krd.afzar.fm.mci            0                                                            3500                                               0                                                           0                                                         0                                                    
+folad.mbk.mci               3                                                            0                                                  0                                                           0                                                         0                                                    
+moi.elc.mci                 0                                                            69                                                 0                                                           0                                                         0                                                    
+ir.gz.pipeline.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+hmz.escada.tb.mci           0                                                            2                                                  0                                                           0                                                         0                                                    
+shabakegostar.persia.mci    0                                                            0                                                  0                                                           0                                                         0                                                    
+behpardakht.st.mci          0                                                            20                                                 0                                                           0                                                         0                                                    
+reg.emb.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+yzd.doe.mci                 0                                                            5                                                  0                                                           0                                                         0                                                    
+ker.barezpakhsh.mci         0                                                            6                                                  0                                                           0                                                         0                                                    
+To be continued...
+---    END
++++    ugw        2023-12-25 22:03:54+03:30
+O&M    #1888646634
+%%/*1888646634 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+bakhtar.tb.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+iccima.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+esf.iron.fundry.mci         0                                                            250                                                0                                                           0                                                         0                                                    
+sharif.hamrah.saleh.mci     0                                                            144                                                0                                                           0                                                         0                                                    
+smart.agricalture.mci       0                                                            0                                                  0                                                           0                                                         0                                                    
+hoodad.pishgam.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+rd.iotp.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+j.ker.escada.tb.mci         0                                                            0                                                  0                                                           0                                                         0                                                    
+imenweb.mci                 0                                                            1                                                  0                                                           0                                                         0                                                    
+j.ker.fm.azma.mci           0                                                            97                                                 0                                                           0                                                         0                                                    
+avak.mci                    0                                                            58                                                 0                                                           0                                                         0                                                    
+grash.ems.mci               0                                                            10                                                 0                                                           0                                                         0                                                    
+qom.ems.dy.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+eogpc.mci                   0                                                            0                                                  0                                                           0                                                         0                                                    
+moe.gov.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+yas.arg.mci                 204                                                          0                                                  0                                                           0                                                         0                                                    
+ilm.fm.behin.mci            0                                                            703                                                0                                                           0                                                         0                                                    
+dezh.keysan.mci             0                                                            7                                                  0                                                           0                                                         0                                                    
+sphtan.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+shora.gc.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+n.ker.tb.mci                0                                                            630                                                0                                                           0                                                         0                                                    
+ilm.fm.afzar.mci            0                                                            1294                                               0                                                           0                                                         0                                                    
+ksh.fm.afzar.mci            0                                                            3106                                               0                                                           0                                                         0                                                    
+irib.mci                    0                                                            0                                                  0                                                           0                                                         0                                                    
+asd.ems.mci                 0                                                            13                                                 0                                                           0                                                         0                                                    
+ksh.fm.behin.mci            0                                                            0                                                  0                                                           0                                                         0                                                    
+trip.mci                    0                                                            0                                                  0                                                           0                                                         0                                                    
+cb.doe.mci                  0                                                            6                                                  0                                                           0                                                         0                                                    
+mkz.bhr.tb.mci              0                                                            16                                                 0                                                           0                                                         0                                                    
+keysunsanat.mci             0                                                            57                                                 0                                                           0                                                         0                                                    
+rmto.ksh.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+pishkhan.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+shora.gc.sts.mci            0                                                            0                                                  0                                                           0                                                         0                                                    
+ptptest.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+ard.bnf.tb.mci              0                                                            0                                                  0                                                           0                                                         0                                                    
+ghaemshahr.mnplc.mci        0                                                            2                                                  0                                                           0                                                         0                                                    
+sphtan.st.mci               0                                                            0                                                  0                                                           0                                                         0                                                    
+arad.ramesh.mci             0                                                            0                                                  0                                                           0                                                         0                                                    
+ptpusr.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+shoushtar.ems.mci           0                                                            7                                                  0                                                           0                                                         0                                                    
+behvar.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+wifi.rasa.mci               0                                                            0                                                  0                                                           0                                                         0                                                    
+bld3.mno.mci                0                                                            108                                                0                                                           0                                                         0                                                    
+sanjesh.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+rd.tst.mci                  0                                                            1                                                  0                                                           0                                                         0                                                    
+avak.hrs.mci                0                                                            18                                                 0                                                           0                                                         0                                                    
+eword.sts.mci               0                                                            0                                                  0                                                           0                                                         0                                                    
+prabs.hrs.mci               0                                                            8                                                  0                                                           0                                                         0                                                    
+tbtb.bnf.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+albz.ems.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+pishgaman.mci               0                                                            1                                                  0                                                           0                                                         0                                                    
+iripo.sts.mci               0                                                            0                                                  0                                                           0                                                         0                                                    
+jiring.mci                  0                                                            1                                                  0                                                           0                                                         0                                                    
+persiongolf.petro.mci       0                                                            2                                                  0                                                           0                                                         0                                                    
+payam.airport.mci           0                                                            7                                                  0                                                           0                                                         0                                                    
+abfa.mzn.mci                0                                                            0                                                  0                                                           0                                                         0                                                    
+asa.rad.mci                 0                                                            1                                                  0                                                           0                                                         0                                                    
+abfa.mzn1.mci               0                                                            10                                                 0                                                           0                                                         0                                                    
+srl.p2s.mci                 0                                                            5                                                  0                                                           0                                                         0                                                    
+faraja.mci                  0                                                            0                                                  0                                                           0                                                         0                                                    
+tj.persiangolf.petro.mci    0                                                            0                                                  0                                                           0                                                         0                                                    
+To be continued...
+---    END
++++    ugw        2023-12-25 22:03:56+03:30
+O&M    #1888646634
+%%/*1888646634 MML Session=1703529177*/DSP APNPDPSTATS: CATEGORYTYPE=IP_ALLOCATION;%%
+RETCODE = 0  Operation Success.
+
+Ip Address Allocation Method
+----------------------------
+Name of a Configured APN    APN-specific Contexts Using Locally Assigned IP Addresses    APN-specific Contexts Using Static IP Addresses    APN-specific Contexts Using RADIUS-assigned IP Addresses    APN-specific Contexts Using DHCP-assigned IP Addresses    APN-specific Contexts Using LNS-assigned IP Addresses
+
+netmonitlnddev.mci          0                                                            0                                                  0                                                           0                                                         0                                                    
+tax.gov.mci                 0                                                            0                                                  0                                                           0                                                         0                                                    
+smartroad2.rand.mci         0                                                            1                                                  0                                                           0                                                         0                                                    
+baharan.mci                 0                                                            3                                                  0                                                           0                                                         0                                                    
+rbms.mci                    0                                                            0                                                  0                                                           0                                                         0                                                    
+(Number of results = 308)
+5 reports in total
+---    END
+
+MML Command Result:
+	Operation Success.
+MML Command Return Code:
+	0
